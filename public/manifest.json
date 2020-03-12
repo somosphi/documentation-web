@@ -1,0 +1,8 @@
+{
+  "name": "documentation-web",
+  "short_name": "documentation-web",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF"
+}
