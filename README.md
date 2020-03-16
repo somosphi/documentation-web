@@ -2,7 +2,7 @@
 
 ## Installation
 
-This is a Vue.js + React.js module available through the npm registry.
+This is a Vue.js + React.js frontend module for documentation-backend.
 
 ## Enviroment variables
 
