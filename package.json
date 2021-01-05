@@ -12,7 +12,7 @@
     "@kyma-project/asyncapi-react": "^0.3.1",
     "@types/json-schema": "^7.0.4",
     "asyncapi-generator": "^0.32.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^2.6.5",
     "moment-timezone": "^0.5.26",
     "ms": "^2.1.2",
