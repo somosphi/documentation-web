@@ -14,7 +14,7 @@
     "asyncapi-generator": "^0.32.0",
     "axios": "^0.19.2",
     "core-js": "^2.6.5",
-    "moment-timezone": "^0.5.26",
+    "moment-timezone": "^0.5.35",
     "ms": "^2.1.2",
     "ramda": "^0.26.1",
     "react": "^16.13.0",
